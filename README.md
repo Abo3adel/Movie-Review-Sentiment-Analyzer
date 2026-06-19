@@ -24,7 +24,7 @@ An end-to-end Machine Learning web application built to instantly analyze the se
    pip install -r requirements.txt
    ```
 
-2.Run the Streamlit app:
+2. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
