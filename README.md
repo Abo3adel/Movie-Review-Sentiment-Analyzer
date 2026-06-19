@@ -4,7 +4,7 @@
 An end-to-end Machine Learning web application built to instantly analyze the sentiment of movie reviews. The model processes raw text, cleans it, and predicts whether the review is **Positive** or **Negative** using a trained machine learning algorithm.
 
 ## 🚀 Live Demo
-[Insert Your Streamlit App Link Here]
+[Click here to view the Live App!](https://movie-review-sentiment-analyzer-152.streamlit.app/)
 
 ## 📸 Application Interface
 ![App Screenshot](app_screenshot.png)
