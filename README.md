@@ -6,6 +6,9 @@ An end-to-end Machine Learning web application built to instantly analyze the se
 ## 🚀 Live Demo
 [Insert Your Streamlit App Link Here]
 
+## 📸 Application Interface
+![App Screenshot](app_screenshot.png)
+
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Machine Learning:** Scikit-learn (LinearSVC, TF-IDF Vectorization)
